@@ -5,3 +5,8 @@
     padding: 20px;
     grid-area: footer;
 }
+
+.search-button {
+    background-color: red;
+    color: white;
+}
