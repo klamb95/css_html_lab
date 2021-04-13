@@ -15,7 +15,7 @@ main {
 #grid-container {
   display: grid;
   grid-template-areas:
-    'logo header pages'
+    'fav1 fav2 fav3'
     'main main main'
     'footer footer footer';
   grid-template-columns: 1fr 1fr 1fr;
